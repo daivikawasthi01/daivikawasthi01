@@ -15,7 +15,7 @@
 
 B.Tech Information Technology student at Netaji Subhas University of Technology, Delhi. Completed a Technology Analyst Internship at Goldman Sachs, Bengaluru, where I built a full-stack infrastructure platform on AWS ECS and DynamoDB used by 9,000+ developers.
 
-I focus on backend and full-stack development — designing APIs, working across the stack from database to UI, and shipping containerized services. I also work on side projects exploring systems-level programming for the performance angle it brings to backend work.
+I focus on backend and full-stack development, designing APIs, working across the stack from database to UI, and shipping containerized services. I also work on side projects exploring systems-level programming for the performance angle it brings to backend work.
 
 Reliance Foundation Scholar, selected from over 100,000 applicants. 500+ problems solved across LeetCode, GeeksforGeeks, and Coding Ninjas.
 
