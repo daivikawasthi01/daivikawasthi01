@@ -19,8 +19,6 @@ I focus on backend and full-stack development, designing APIs, working across th
 
 Reliance Foundation Scholar, selected from over 100,000 applicants. 500+ problems solved across LeetCode, GeeksforGeeks, and Coding Ninjas.
 
-Reach me at **daivikawasthi.01@gmail.com**.
-
 ---
 
 ### Featured Projects
@@ -43,6 +41,26 @@ Full-stack application with authentication and document management, alongside AI
 Deterministic order book and matching engine in C++17, executing trades via price-crossing logic with order sweeping across multiple resting orders for partial fills.
 
 `105,700+ orders/sec` &nbsp;·&nbsp; `9.5 μs avg latency`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[MeetMind](https://github.com/daivikawasthi01/MeetMind)**
+
+AI meeting assistant that pulls summaries, action items, and decisions out of transcripts, audio, or video, using Gemini for extraction and an ffmpeg pipeline for media conversion.
+
+`React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+**[JobRadar](https://github.com/daivikawasthi01/JobRadar)**
+
+Crawler that monitors thousands of company career pages for new entry-level postings and sends email alerts, so you find openings before they show up on job boards.
+
+`Python` &nbsp;·&nbsp; `Web Scraping` &nbsp;·&nbsp; `Automation`
 
 </td>
 </tr>
